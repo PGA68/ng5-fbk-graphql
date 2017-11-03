@@ -6,20 +6,25 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["bootstrup", "angular", "graphql", "fb"],
+  "keywords": [
+    "bootstrup",
+    "angular",
+    "graphql",
+    "fb"
+  ],
   "author": "PGA68",
   "license": "ISC",
   "dependencies": {
     "@agm/core": "^1.0.0-beta.2",
-    "@angular/animations": "^4.4.6",
+    "@angular/animations": "^5.0.0",
     "@angular/common": "^4.4.6s",
-    "@angular/compiler": "^4.4.6",
-    "@angular/core": "^4.4.6",
-    "@angular/forms": "^4.4.6",
-    "@angular/platform-browser": "^4.4.6",
+    "@angular/compiler": "^5.0.0",
+    "@angular/core": "^5.0.0",
+    "@angular/forms": "^5.0.0",
+    "@angular/platform-browser": "^5.0.0",
     "angular-bootstrap-md": "^4.3.7",
     "apollo-angular": "^0.13.3",
-    "apollo-client": "^1.9.3",
+    "apollo-client": "^2.0.1",
     "chart": "^0.1.2",
     "chart.js": "^2.5.0",
     "font-awesome": "^4.7.0",
